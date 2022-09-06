@@ -1,0 +1,30 @@
+body {
+	background-color:#000
+}
+
+.numberheader {
+    margin-top:0px;
+    margin-left:auto;
+    margin-right:auto;
+    top: 0px;
+    color:#3399ff;
+    font-size:10vh;
+    text-align:center;
+}
+
+#container {
+    margin-top:0px;
+
+}
+
+footer	{
+	position:absolute;
+	bottom:0px;
+}
+
+#inputnumber {
+	background-color:#000;
+	color:#555;
+	width:25px;
+	border:none;
+}
